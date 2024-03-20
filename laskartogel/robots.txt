@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow:
+http://ftp.smellems.com/laskartogel/sitemap.xml
